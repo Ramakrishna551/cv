@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: #2693be;
+}
+ ul li {
+    display:block;
+    padding:10px 15px;
+    font-size: 2.3em;
+    font-style: italic;
+}
+p{
+    background-color: #16850c;
+    color:rgb(170, 182, 5);
+}
+#labrador{
+    display:block;
+    margin-left:auto;
+}
+ul  {
+    list-style-type: circle;
+}
